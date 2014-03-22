@@ -2,7 +2,6 @@ package br.com.marcus.modelo.dao;
 
 import java.io.Serializable;
 import java.util.List;
-import org.hibernate.Criteria;
 import org.hibernate.Session;
 import org.hibernate.criterion.DetachedCriteria;
 
